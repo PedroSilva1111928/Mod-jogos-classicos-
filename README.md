@@ -2,6 +2,11 @@
 
 Este projeto é um mod que aplica otimizações gráficas em jogos clássicos, aumentando a taxa de quadros (FPS) e proporcionando uma experiência mais fluida.
 
+Baseado no projeto Peixoto Patches reformulado com novos patches e nova interface 
+
+link do projeto original: https://community.pcgamingwiki.com/files/file/1123-peixotos-patches/
+
+
 ## Ilustração
 
 ![Jogos Clássicos FPS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Doom_gameplay.png/640px-Doom_gameplay.png)
