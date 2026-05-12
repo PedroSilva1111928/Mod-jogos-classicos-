@@ -1,3 +1,5 @@
+# Nemo Petches
+
 # Mod de Melhoria Gráfica (FPS & Frame Rate)
 
 Este projeto é um mod que aplica otimizações gráficas em jogos clássicos, aumentando a taxa de quadros (FPS) e proporcionando uma experiência mais fluida.
