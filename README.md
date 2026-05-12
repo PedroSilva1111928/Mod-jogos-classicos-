@@ -1,4 +1,4 @@
-# Nemo Petches
+# Nemo Mods
 
 # Mod de Melhoria Gráfica (FPS & Frame Rate)
 
