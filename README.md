@@ -9,7 +9,7 @@ link do projeto original: https://community.pcgamingwiki.com/files/file/1123-pei
 
 ## Ilustração
 
-![Jogos Clássicos FPS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Doom_gameplay.png/640px-Doom_gameplay.png)
+![Playstation](https://pixabay.com/pt/images/download/pexels-playstation-1845880_1920.jpg)
 
 ## Funcionalidades
 - Ajustes gráficos para melhor desempenho
